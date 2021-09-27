@@ -4,6 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jorasinghr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorarandhawa/)](https://www.linkedin.com/in/jorarandhawa/)
 [![Gmail Badge](https://img.shields.io/badge/-jorasinghr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorasinghr@gmail.com)](mailto:jorasinghr@gmail.com)
 
+[![Status](https://github.com/jorasinghr/jorasinghr/actions/workflows/test2.yml/badge.svg?event=status)](https://github.com/jorasinghr/jorasinghr/actions/workflows/test2.yml)
+
 <!--- 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
