@@ -1,5 +1,5 @@
 
-## 👋 Hi, I’m Jora
+## Hi, I’m Jora 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jorasinghr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorarandhawa/)](https://www.linkedin.com/in/jorarandhawa/)
 <!--
